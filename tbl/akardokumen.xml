@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<records>
+    <prodi>
+        <name>PGSD</name>
+        <default>Yes</default>
+    </prodi>
+    <prodi>
+        <name>BisnisDigital</name>
+        <default>No</default>
+    </prodi>
+    <prodi>
+        <name>Pariwisata</name>
+        <default>No</default>
+    </prodi>
+    <prodi>
+        <name>Agribisnis</name>
+        <default>No</default>
+    </prodi>	
+    <prodi>
+        <name>TeknologiInformasi</name>
+        <default>No</default>
+    </prodi>	
+	
+	<settings>
+		<server>192.168.0.12</server>
+		<folder>DiktiEdu</folder>
+		<root>/storage/emulated/0</root>
+	</settings>
+</records>
